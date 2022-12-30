@@ -1,0 +1,6 @@
+{:deps    {day8.re-frame/test {:mvn/version "0.1.5"}
+           reagent/reagent    {:mvn/version "1.0.0"}}
+ :paths   ["src"]
+ :aliases {:build {:deps       {io.zalky/build-clj {:git/url "https://github.com/zalky/build-clj.git"
+                                                    :git/sha "c8782e887381160f6d34d48425dc2d3a2a40f4cb"}}
+                   :ns-default io.zalky.build}}}
