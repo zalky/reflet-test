@@ -4,7 +4,9 @@
 
 [![Clojars Project](https://img.shields.io/clojars/v/io.zalky/reflet-test?labelColor=blue&color=green&style=flat-square&logo=clojure&logoColor=fff)](https://clojars.org/io.zalky/reflet-test)
 
-Test fixtures for Reflet. See the Reflet documentation on usage.
+Test fixtures for Reflet. See the Reflet
+[Testing](https://github.com/zalky/reflet/wiki/Testing) documentation
+for usage.
 
 ## License
 
